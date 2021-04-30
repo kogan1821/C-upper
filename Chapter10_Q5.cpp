@@ -1,9 +1,4 @@
-/*Chapter 10 Question 5
-Programmer: Ilya Kogan
-Course: CSC119-143 Introduction to Programming Spring 2021
-04/29/2021
-This program capitalizes the first letter after each period
-*/
+
 #include <iostream>
 #include <cstring>
 #include <cctype>
